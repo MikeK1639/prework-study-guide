@@ -1,4 +1,4 @@
-# <Mikes Study Guide!>
+# Mikes Study Guide!
 
 ## Description
 
