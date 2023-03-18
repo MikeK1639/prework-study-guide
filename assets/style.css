@@ -6,7 +6,11 @@ header,
 footer {
     width: 100%;
     height: 120px;
+feature/project-README
     background-color: rgb(24, 170, 206);
+
+    background-color: rgb(24, 24, 206);
+ master
     color: red(255, 255, 255);
 }
 h1,
